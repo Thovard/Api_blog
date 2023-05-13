@@ -1,10 +1,10 @@
- <!-- INICIANDO O PROJETO -->
+# INICIANDO O PROJETO
     Crie o .env copiando o .env.exmple
         cp .env.example .env
     cadastre no env a porta local que sera usada.
     insira o acesso ao do banco.
 
-<!--  DB INFO -->
+# DB INFO
     nesse projeto foi usado o banco de dados da plataforma
        SITE: mongodb.com
     para a criação do banco basta criar sua conta e seguir o passo a passo.
